@@ -30,13 +30,13 @@
             <div class="row mb-3">
                 <label class="col-sm-2 col-label-form">New Password</label>
                 <div class="col-sm-10">
-                    <input type="password" name="password" class="form-control" />
+                    <input type="password" name="password" class="form-control" required/>
                 </div>
             </div>
             <div class="row mb-3">
                 <label class="col-sm-2 col-label-form">Confirm Password</label>
                 <div class="col-sm-10">
-                    <input type="password" name="password_confirmation" class="form-control" />
+                    <input type="password" name="password_confirmation" class="form-control" required/>
                 </div>
             </div>
             <div class="row mb-4">
